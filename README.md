@@ -37,4 +37,4 @@ Este projeto está licenciado sob a MIT License. Veja o arquivo LICENSE para mai
 
 ## Contato
 
-Se você tiver alguma dúvida ou sugestão, pode me encontrar em [seuemail@example.com](mailto:camyvitoriiaacom).
+Se você tiver alguma dúvida ou sugestão, pode me encontrar em [camyvitoriiaa@gmail.com](mailto:camyvitoriiaacom).
