@@ -1,4 +1,4 @@
-# Dashboard-Interativo--Imers-o-dados_python-
+# Dashboard-Interativo--Imersão-dados_python-
 # Meu Dashboard com Streamlit
 
 Este projeto é um dashboard interativo desenvolvido com Python e a biblioteca Streamlit. O objetivo é visualizar dados de forma simples e intuitiva, permitindo a análise de informações de maneira interativa.
